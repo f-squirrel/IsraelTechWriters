@@ -22,6 +22,7 @@ Make sure your result matches these instructions:
 ## List of Writers
 
 * [Pull Request Community Blog](https://pullrequestcommunityisrael.medium.com/): Open source. Writing language: en.
+* [Guy Avraham](https://yetanotherprogrammerblogcom.wordpress.com/blog/): Coding, automation, DevOps, networking, C++, Python, Linux. Writing language: en.
 * [Michal Porag](https://michal-porag.medium.com/): Front end, Computer science. Writing language: en.
 * [Elad Shechter](https://elad.medium.com/): CSS. Writing language: en.
 * [David Meir-Levy](https://www.davidlevy.co.il): Front end. Writing language: en.
